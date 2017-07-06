@@ -1,0 +1,43 @@
+unique
+------
+                              unsorted  sorted
+GreenEggsAndHam.txt            .006s     .005s
+Macbeth.txt                    .062s     .024s
+Genesis.txt                    .2356s    .0226s
+HoundOfTheBaskervilles.txt     .3105s    .0536s
+TheWarOfTheWorlds.txt          .3613s    .070s
+TreasureIsland.txt             .720s     .063s
+TheSecretGarden.txt            1.0065s   .055s
+TheCountOfMonteCristo.txt      1.140s    .436s
+TwentyThousandLeagues.txt      .806s     .116s
+Bible.txt                      1.139s    .420s
+
+
+bincount
+--------
+                              unsorted  sorted
+GreenEggsAndHam.txt             .0055s   .005s
+Macbeth.txt                     .038s    .00123s
+Genesis.txt                     .172s    .0143s
+HoundOfTheBaskervilles.txt      .3823s   .0245s
+TheWarOfTheWorlds.txt           .2945s   .0253s
+TreasureIsland.txt              .3875s   .0275s
+TheSecretGarden.txt             .4613s   .0283s
+TheCountOfMonteCristo.txt       5.573s   .1584s
+TwentyThousandLeagues.txt       .6045s   .0413s
+Bible.txt                       7.747s   .2143s
+
+
+parity
+------
+                              unsorted  sorted
+GreenEggsAndHam.txt             .0076s    .005s
+Macbeth.txt                     .3813s    .075s
+Genesis.txt                     2.246s    .085s
+HoundOfTheBaskervilles.txt      4.255s    .296s
+TheWarOfTheWorlds.txt           4.515s    .353s
+TreasureIsland.txt              5.796s    .364s
+TheSecretGarden.txt             6.854s    .365s
+TheCountOfMonteCristo.txt       65.56s   5.867s
+TwentyThousandLeagues.txt       11.66s    .738s
+Bible.txt                       118.58s  5.677s
